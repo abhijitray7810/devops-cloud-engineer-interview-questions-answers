@@ -7,7 +7,7 @@ https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/concepts.html
 
 1. [What is EC2?](#what-is-ec2)
 2. [EC2 Console Overview](#ec2-console-overview)
-3. [Section 1 — Instances](#section-1--instances)
+3. [Section 1 — Instances](#section-1--instances) 
    - [1.1 Instances](#11-instances)
    - [1.2 Instance Types](#12-instance-types)
    - [1.3 Launch Templates](#13-launch-templates)
