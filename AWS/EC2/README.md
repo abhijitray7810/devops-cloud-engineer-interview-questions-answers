@@ -2,7 +2,7 @@
 ### Everything You Need to Know: From Console to Production
 https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/concepts.html
 ---
- 
+  
 ## Table of Contents
 
 1. [What is EC2?](#what-is-ec2)
