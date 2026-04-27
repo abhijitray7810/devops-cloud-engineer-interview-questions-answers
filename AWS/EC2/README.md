@@ -13,7 +13,7 @@
    - [1.3 Launch Templates](#13-launch-templates)
    - [1.4 Spot Requests](#14-spot-requests)
    - [1.5 Savings Plans](#15-savings-plans)
-   - [1.6 Reserved Instances](#16-reserved-instances)
+   - [1.6 Reserved Instances](#16-reserved-instances) 
    - [1.7 Dedicated Hosts](#17-dedicated-hosts)
    - [1.8 Capacity Reservations](#18-capacity-reservations)
    - [1.9 Capacity Manager](#19-capacity-manager)
